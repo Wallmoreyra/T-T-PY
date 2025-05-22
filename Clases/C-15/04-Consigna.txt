@@ -1,0 +1,6 @@
+En nuestro día a día, interactuamos con muchos clientes, y uno de los pasos iniciales es recopilar y organizar su información básica. Para eso, necesito que desarrolles un pequeño programa en Python que haga lo siguiente:
+
+
+1-Formatee correctamente los textos ingresados en “apellido” y “nombre”, convirtiendo la primera letra de cada palabra a mayúsculas y el resto en minúsculas.
+2-Asegurarse que el correo electrónico no tenga espacios y contenga solo una “@”.
+3-Que clasifique por rango etario basándose en su edad (“Niño/a” para los menores de 15 años, “Adolescente” de 15 a 18 y “Adulto/a” para los mayores de 18 años.)

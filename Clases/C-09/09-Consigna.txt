@@ -1,0 +1,7 @@
+¡Hola! Tu tarea es crear un programa en Python con las siguientes características: 
+
+ - Agregar productos: Permite agregar productos a una lista. Cada producto debe tener un nombre y un precio.
+
+° Consultar productos: Muestra todos los productos en la lista junto con sus precios.
+° Eliminar productos: Elimina un producto de la lista a partir de su nombre.
+° Menú interactivo: El programa debe ofrecer un menú para que se elija qué acción realizar. Debe incluirse una opción para salir del programa.

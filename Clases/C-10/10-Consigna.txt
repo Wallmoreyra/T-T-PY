@@ -1,0 +1,9 @@
+Tu tarea es modificar el programa que escribiste la clase anterior, para que realice las mismas tareas, pero utilizando funciones que devuelvan valores cuando sea posible. Recordá que el programa te permitía:
+
+
+¡Hola! Tu tarea es crear un programa en Python con las siguientes características:
+
+° Agregar productos: Permite a la usuaria o usuario agregar productos a una lista, con nombre y precio.
+° Consultar productos: Muestra todos los productos en la lista junto con sus precios. 
+° Eliminar productos: A partir de su nombre.
+° Menú interactivo: Debe ofrecer un menú para que se pueda elegir qué acción realizar.

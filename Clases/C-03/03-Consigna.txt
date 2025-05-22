@@ -1,0 +1,6 @@
+En nuestro día a día, interactuamos con muchos clientes, y uno de los pasos iniciales es recopilar y organizar su información básica. Para eso, necesito que desarrolles un pequeño programa en Python que haga lo siguiente:
+
+
+1-Solicite al cliente su nombre, apellido, edad y correo electrónico.
+2-Compruebe que el nombre, el apellido y el correo no estén en blanco, y que la edad sea mayor a 18 años.
+3-Muestre los datos por la terminal, en el orden que se ingresaron. Si alguno de los datos ingresados no cumple los requisitos, sólo mostrar el texto “ERROR!”.
